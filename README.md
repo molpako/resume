@@ -22,7 +22,6 @@ layout: doc
   <a href="https://x.com/molpako" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@molpako-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://molpako.hatenablog.com/" target="_blank"><img alt="Hate" src="https://img.shields.io/badge/molpako-00A4DE.svg?&style=flat-square&logo=hatenabookmark&logoColor=white" /></a>
 </p>
-![Hatena Bookmark Badge](https://img.shields.io/badge/Hatena%20Bookmark-00A4DE?logo=hatenabookmark&logoColor=fff&style=flat-square)
 
 ## 職務経歴
 
