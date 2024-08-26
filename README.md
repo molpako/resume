@@ -60,11 +60,28 @@ layout: doc
 
 ## 業務での経験スキル
 
-- Linux の基本的知識
-- Go を使ったデーモンの設計・開発、またはリファクタリング
-- メール/DNS分野における専門的知識
-- Ansible, molecule を使った IaC 開発
-- Prometheus/Alertmanger を使った監視設計
+###  Go を使ったデーモンの設計・開発（5年〜
+
+主にメールサービスと連携するデーモンを Go で開発していました。まず動くものを軽量プロトタイプとして作り、必要な要件を確認してから設計・開発に入る手法を実践していました。コーディングでは [Effective Go](https://go.dev/doc/effective_go), [Google Go Style](https://google.github.io/styleguide/go/) などの文献や標準ライブラリの実装を参考にして、より標準的な実装になるように意識しています。
+
+
+### メール/DNS分野における専門的知識
+
+メール（SMTP,POP,IMAP）サービスの運用経験があります。メールの信頼性を高めるために、送信ドメイン認証や不正クライアント対策を導入をしました。
+
+
+### Ansible(molecule), Puppet を使った IaC 開発
+
+Ansible と Puppet を使用し、Infrastructure as Code (IaC) の開発を行っていました。テストには molecule を活用し、インフラ構築の自動化と構成管理を効率的に実施しました。
+
+### Prometheus/Alertmanger を使った監視設計
+
+Nagios を使用したシンプルな閾値監視から、Prometheus/Alertmanager でメトリクスを使ったより柔軟な監視設計へ移行を進めました。
+
+参考にした書籍
+
+- [入門 監視 - モダンなモニタリングのためのデザインパターン](https://www.oreilly.co.jp/books/9784873118642/)
+- [入門 Prometheus - インフラとアプリケーションのパフォーマンスモニタリング](https://www.oreilly.co.jp/books/9784873118772/)
 
 ## 意欲・興味
 
