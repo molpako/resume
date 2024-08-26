@@ -96,6 +96,10 @@ Nagios を使用したシンプルな閾値監視から、Prometheus/Alertmanage
 - スクレイピングと GCP Pub/Sub を使ってデータパイプライン構築
 - pandas/jupyter notebook と sklearn を使った簡単なデータ分析と機械学習
 - Ceph/Rook の構築や検証
+- OSS へのコントリビュート
+    - [prometheus-community/ansible fix(mysqld_exporter): Change condition for mysqld_exporter_host check](https://github.com/prometheus-community/ansible/pull/270)
+    - [ceph/ceph doc/cephfs: fix architecture link to correct relative path](https://github.com/ceph/ceph/pull/56333)
+    - [readthedocs/recommonmark Fix contents directive](https://github.com/readthedocs/recommonmark/pull/126)
 
 ## プライベートでしていること
 
