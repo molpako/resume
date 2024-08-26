@@ -31,7 +31,7 @@ layout: doc
 レンタルサーバーなどのホスティングサービスのインフラ運用に従事。2020-09 から現在まで メール/DNS サービスの信頼性向上を目的としたチームで業務を行っている。
 
 - 主な使用技術
-    - Postfix, Dovecot, Nginx, Go, Python, Ansible, Puppet, Ceph, MySQL
+    - Go, Python, Nginx, MySQL, Ansible, Puppeet, Postfix, Dovecot, Ceph, MySQL
 - 主な担当プロジェクト
     - スパムメール受信・送信対策
     - Gmailのメール送信者ガイドラインの適用
