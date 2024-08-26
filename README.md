@@ -39,7 +39,7 @@ layout: doc
     - メールサービスのログイン認可デーモンの開発（Go）
     - Dovecot の quota service のクライアントであるポリシーサービスの開発（Go）
     - チームドキュメントをSphinxで構築
-    - Nginx から Prometheus/Alertmanager のモダンな監視へ移行
+    - Nagios から Prometheus/Alertmanager のモダンな監視へ移行
     - systemd socket を使ったダウンタイムの少ないデーモンの立ち上げ
     - オンコール対応
 - テックブログ
